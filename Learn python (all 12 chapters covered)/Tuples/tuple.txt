@@ -1,0 +1,10 @@
+1- immutable 
+2- heterogeneous 
+3- list []
+tuple ()
+
+len()
+min max 
+count()
+index ()
+sorted()

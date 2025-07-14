@@ -1,0 +1,8 @@
+Key Takeways:
+hame abstraction ki ye batein yaad rakhi h ki -
+
+i. Abstraction unnecesssary details ko hide rakhta h aur jo structure h uski complexity kafi aasan bana deta h taki user usko bhot easily use kr paye 
+
+ii. Abstract classes cannot be instanciated wo sirf as a blueprint act krti h 
+
+iii. Child classes must define actual classes.

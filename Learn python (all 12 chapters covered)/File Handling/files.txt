@@ -1,0 +1,25 @@
+1. File Handling -> A collection of stored data on a computer or in a file system jisko aap access kr skte ho modify kr skte ho delete kr skte ho and save kr skte ho
+
+2. primary files types ->
+    i. text files (.txt, .csv(google sheet))
+    ii. binary files (image, video, audio) -> (non text files) -> (.png, .jpg, .mp3, .mp4, .pdf)
+    iii. database files (sqlite3, mysql, postgresql)
+
+3. file object -> any file on your computer is a file object
+
+4. file operations -> open(), read(), write(), close()
+
+5. file modes -> r(read), w(write), a(append), r+(read and write), w+(write and read), a+(append and read)        
+
+6. file object methods -> read(), readline(), readlines(), write(), close()
+
+7. file object attributes -> name, mode, closed
+
+8. file object functions -> open(), close()
+
+------------------------------------------------------------------------------
+
+with statement -> it is used to open and close a file automatically
+
+syntax ->  with open("file_name", "mode") as file_name: 
+           print(file_name.read())

@@ -1,0 +1,18 @@
+Note: inheritance ka mtlb bhot simple hota h maan lo ki hamne parent class bnayi ek , isme 2 methods/properties h p1 and p2 , ab maan lo ki hamne ek child class aur bnayi, aur maan lo ki hame 2 aur properties bnani h p3 and p4 and ek aur property hame chahiye p2 toh instant of writing the code again yaha pe p2 ke bare me mai kya krunga isi parent wale property ko inherit kr dunga , mai bolunga ki child class jao aur jo parent class me p2 property bani hui h usi ko inherit krlo, toh yaha pr hame code ko dobara se likhne ki jarurat hi nhi h, toh benefit :
+i. code duplication nhi hoga 
+ii. child class me hm is code ko bina dobara likhe re-use kr skte h 
+
+eg. ek real life example: 
+ek bacha h usme kuch features honge uske parents ke jaise ki eye ka color same, hair color same, face same lgta h so, yaha pr kya ho rha h ki ek bacha apne parents ki property ko inherit kr rha h 
+
+eg2. suppose ek car h toh uske naye models purane wale older version se inspire hoke usme kuch improve krke launch hote h
+
+# So in summary, inheritance ki help se aap code ko reuse kr skte ho aur existing code ko extend kr skte ho 
+
+-------------------------------------------------------------------
+
+parent class 
+    p1 p2 
+
+child class 
+    p3 p4 p2 

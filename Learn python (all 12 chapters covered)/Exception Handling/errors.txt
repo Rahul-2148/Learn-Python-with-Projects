@@ -1,0 +1,59 @@
+what are errors ?
+
+a- compile-time errors 
+b- run-time errors 
+c- logical errors 
+
+a. program mera execute ho uske pahle mere code me glti ho toh us error ko compile time error kahte h.
+    eg. if 1==1
+    print('ok')
+
+        yaha pr error aayega pahle hi ki aapne colon nhi lagaya h 
+
+b. jb koi program chal rha h aur chalte chalte bich me error aata h toh use runtime error kahte h.
+    eg. print(2 % 0)
+
+        yaha pr error aayega ki 2 ko 0 se divide nhi kr skta h 
+
+c. jb hmara program bina kisi crash ke chalta h but output wo nhi deta jo hame chahiye 
+
+    a = int(input('number1 = '))
+    b = int(input('number2 = '))
+    print('total')
+    print(a*b, 'sum')
+
+        yaha pr error aayega agar apne ko plus wala result nikalna tha aur ham multiply wala result nikal diye toh ans multiply wala h aur chhaiye addition wala to ye bas logical error h.
+
+---------------------------------------------------------------------------------------
+
+errors in software - bugs 
+removing or fixing these errors - debugging
+
+-------------------------------------
+
+exception -> An exception is a speacial type of frontend error ye tb hoga jb hamara program chalega 
+            eg. aap road me chal rhe ho aur apka phone niche gir gya toh agar aapne phone ko girne se pahle catch nhi kiya toh ho skta h aapka phone ka display toot jaye or scratch aa jaye, toh phone girte time agar aapne phone ko catch kiya toh aapne exception handle kr krliya 
+
+                1- start running 
+                2- warning sign 
+                3- catch and handle exceptions, program crash
+
+-----------------------------------
+
+exception handling -> A block of code that is executed when an exception occurs
+
+maan lete h ki aapko kuch na kuch error aane wala h pr program crash nhi hona chahiye smoothly chalte rahna chahiye, jaise ki hm sabhi itni sari applications use krte h kuch na kuch error aata hi h pr aesa thodi h ki application hi crash ho jati h, so agar aapko apne program ko smoothly chalana h bina crash karaye toh aap exception handling ka use kr skte h
+
+dusri chij It allow developers to log error so that wo baad me usko fix krle , jaise maan lete h hame pata h ki zerodivision error aane wala h toh kya hoga ki instant of crashing mera program smooth chalega, mai baad me jake apne program pe apne sofware pe modifications kr skte h, taki ye error phir baad me raise na ho 
+
+teesri baat ki program maintained hota h, organised hota h, yani ki aapne 100 lines of code likha and aapko pata h ki 10 se 20 line ke bich me koi error aa skta h koi exception raise ho skta h toh jaroori nhi h ki apko puri program pr exception handling krni pade, aap sirf 10 or 20 line ko select krke use exception se cover kr skte h, isse hamara code kami organised rahega.
+
+---------------------------------------------
+try-except block -> try-except block is a block of code that is executed when an exception occurs
+
+try- code error 
+except- handle error
+
+finally block -> finally block is a block of code that is executed regardless of whether an exception occurs or not
+
+nested try-except block -> nested try-except block is a block of code that is executed when an exception occurs

@@ -1,0 +1,7 @@
+1- polymorphism: one name multiple forms (eg. len fn)
+2- encapsulation: hiding data and allowing controlled access (eg. private atributes in classes)
+3- inheritance: reuse properties/methods from a parent class (eg. Dog class inherit speak method of Animal  class)
+4- data abstraction: hiding unnecessary details or hiding complex implementation
+
+5- class & objects 
+6- constructor 

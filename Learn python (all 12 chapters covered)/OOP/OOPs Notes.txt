@@ -1,0 +1,37 @@
+Python OOPs note
+Object Oriented Programming
+
+ye hard concept h isliye jyada log nhi samajh pate
+
+programming ke andar jo bhi concepts hote h wo kisi ka kisi ke solutions hote h jaise function hame reusability ka feature deta h , list agar ek variable ke andar apko group of elements store krna h toh aap list ka use kariye, similarly OOPs bhi kisi problem ke solution ke liye banaya gya h
+
+
+Before OOPs , developers used procedural (or structural) programming language concept, jb developers in dono tarikon ka use krke code krte the wo unhe waha pe functions ka use krna padta tha, aur waha pr jo data tha wo step by step execute hota tha but jaise jaise program bada hota gya toh developers ko na waha pr kuch serious problems samajh me aayi, jo hai:
+
+i. code duplication
+ii. code maintainance
+iii. Data security issues
+iv. Poor code reusability
+v. No real world representation
+
+--------------------------------------------------
+
+so aao ham ek game bna kr samajhte h -
+
+what is Object Oriented Programming (OOPs) ?
+ye ek aesa programming style h where we represents real world things as a object 
+
+OOP kis kis problem ko solve krta h ?
+i. code duplication: hame code dobara likhne ki jarurat nhi padta 
+ii. code complex bhi nhi hone wala security barkarar rahegi 
+iii. objects ek dusre ke sath interact kr skte h jaise ki real world duniya me hota h 
+
+
+iske andar ye padhte h --
+"""
+1- classes & objects
+2- inheritance
+3- encapsulation
+4- abstraction
+5- polymorphism
+"""

@@ -1,0 +1,44 @@
+Note: this chapter is main & Most Important - agar ye aata h sare toh ham Data science , Web Developement with python, Django , Data analysic etc me sb kr skte h 
+
+
+Python Dictionary 
+
+1- Definition & Characteristics 
+    Key-Value Pairs 
+    Unordered (before Python 3.7)
+    Mutable 
+
+2- Creation 
+    Using {} braces 
+    Using dict() constructor 
+
+3- Operations  (crud operation)
+    Adding items 
+    Updating items
+    Deleting items 
+
+4- Dictionary Methods 
+    get(), keys(), values(), items()
+    pop(), popitem(), clear()
+
+5- Comprehensions 
+    Dictionary Comprehension
+
+6- Nested Dictionaries 
+
+7- Common use Cases
+
+--------------------------------------------------------
+
+roll number - 01 02 03 
+01 -> name, class, section, subject
+
+pairs 
+1 pair -> key:value
+
+pair = (apple : meaning)
+
+1- key-value = pair, comma 
+2- Unordered (python 3.7 tk tha), but now Ordered 
+3- mutable 
+4- dynamic 

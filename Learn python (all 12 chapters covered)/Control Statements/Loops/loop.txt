@@ -1,0 +1,28 @@
+multiple times repeat 
+
+1- while loop  
+(ye tb tk chalta h jb tk condition false nhi ho jati)
+
+2- for loop (ye ek limited time tk kisi element pe iterate krta h like eg. 4 baar khana h toh 4 baar hi khayega 5 baar nhi (ye sequence like list tuple etc pr iterate krta h))
+
+--------------------------------------
+
+while loop 
+True 
+
+while conditions: 
+    #code execute 
+
+--------------------------------------
+
+for loop 
+[1,2,3,4,5]
+5 times 
+
+list tuple dictionary string 
+
+for variable in sequence: 
+    #code execute 
+
+for a in lst:
+print(a)

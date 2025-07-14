@@ -1,0 +1,45 @@
+string and characters 
+
+numbers 
+a-z A-Z !@#$%
+white space 
+" "
+
+single quotes - 'python'
+double quotes - "python"
+triple quotes - 
+
+"""
+this is a 
+multi line
+"""
+
+"""
+this is 
+also a multi 
+line 
+"""
+
+indexing 0
++ve -ve
+a= 'python'
+p 0
+y 1
+t 2
+h 3
+o 4
+n 5
+
+a = 'python'
+p 0
+print(a[0])
+
+---------------------------------
+3 characteristics 
+
+1- immutable (immutable ka mtlb h ki agar ek baar apne koi data bana liya toh phir aap usme kuch bhi store nhi kr skte)
+2- indexed 
+3- iterable 
+
+---------------------------------
+4- real life examples 

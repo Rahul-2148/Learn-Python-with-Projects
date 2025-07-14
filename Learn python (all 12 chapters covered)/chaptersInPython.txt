@@ -1,0 +1,73 @@
+Q. What is __pycache__ ?
+Ans. __pycache__ is a directory that stores compiled python files for faster execution of python programs when next time the program is run the compiler will not have to re-compile the python file again. 
+
+with problems question ...  ✅
+                                        Contents: 
+
+chapter 1: Introduction to Python ✅
+            i. sequences 
+            ii. set types & so on...
+
+chapter 2: Variable & Data Types ✅
+
+chapter 3: Operators ✅
+            i. Arithmetic 
+            ii. Assignment 
+            iii. Comparison
+            iv. Logical
+            v. Identity operator 
+            vi. Membership operator 
+
+chapter 4: Control Statements & Flow Control ✅
+            i. conditional statements
+            ii. loops
+
+chapter 5: Strings ✅
+            i. Case conversion 
+            ii. Checking methods 
+            iii. Searching and Replacing methods
+            iv. Splitting & Joining
+            v. Slicing & so on...
+
+chapter 6: Lists ✅
+            i. list methods
+            ii. list comprehensions
+            iii. nested lists
+            iv. list slicing & so on...
+
+chapter 7: Tuples ✅
+            i. tuple methods access & create 
+
+chapter 8: Dictionaries ✅
+            i. loops 
+            ii. Methods 
+            iii. dictionary comprehension 
+            iv. nested dictionaries & so on...
+
+chapter 9: Functions ✅
+            i. create a function
+            ii. parameters & arguments 
+            iii. positional arguments
+            iv. decorators 
+            v. lambda functions
+            vi. default arguments
+            vii. generator functions
+            viii. keyword arguments
+
+chapter 10: Object Oriented Programming (OOPs) ✅
+            i. classes & objects
+            ii. inheritance
+            iii. polymorphism
+            iv. encapsulation
+            v. abstraction
+            vi. constructor 
+            vii. decorator 
+            viii. properties & so on...
+
+chapter 11: Exception Handling ✅
+
+chapter 12: File Handling ✅
+
+
+#Instructor: Coding with Sagar (youtube)
+

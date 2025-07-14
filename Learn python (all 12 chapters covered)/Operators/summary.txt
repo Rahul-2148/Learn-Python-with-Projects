@@ -1,0 +1,6 @@
+arith - math calculations 
+comparison - compare values 
+logical - combine 
+assignment - assign values 
+identity - object memory location 
+membership - value exist in sequences 
