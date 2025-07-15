@@ -1,0 +1,15 @@
+step                Description 
+
+step 1:             Import the random module
+
+step 2:             Create lists of subjects, actions, and places- all with Indian examples 
+
+step 3:             Use random.choice() to pick one word each list 
+
+step 4:             Combine the words into a headline using string formatting 
+
+step 5:             Print the headline to the user
+
+step 6:             Ask the user if they want another headline
+
+step 7:             If yes, repeat; if no, stop the program

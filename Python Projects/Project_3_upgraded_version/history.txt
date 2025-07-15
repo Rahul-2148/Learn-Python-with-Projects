@@ -1,0 +1,2 @@
+Level: Easy, Word: iuds, Attempts: 6, Time: 44.62s
+Level: Easy, Word: default, Attempts: 6, Time: 71.71s

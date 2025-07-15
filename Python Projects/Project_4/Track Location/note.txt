@@ -1,0 +1,7 @@
+packages install required: pip install phonenumbers opencage folium
+
+phonenumbers package -> this is used to extract country code from phone number and then use opencage to get the latitude and longitude.
+
+opencage package -> this is used to get the latitude and longitude, isse ham us phone number ki location ka pata lagate h ki kha h.
+
+folium package -> this is used to plot the location on the map using latitude and longitude extracted from opencage package and phonenumbers package.

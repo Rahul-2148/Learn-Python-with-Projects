@@ -1,0 +1,29 @@
+1. Start the program 
+
+2. Import the random module 
+
+3. Create a list of Indian subjects 
+    Example: ["Shahrukh Khan", "Virat Kohli", "Nirmala Sitharaman", "A Mumbai Cat", "A Group of Monkeys", etc]
+
+4. Create a list of Indian actions 
+   Example: ["launches", "cancels", "dances with", "eats", "declares war on", etc]
+
+5. Create a list of Indian places or things
+    Example: ["at Red Fort", "in Mumbai local train", "a plate of samosa", "inside parliament", "at Ganga ghat", etc]
+
+6. Start a loop (use while loop) that keeps running until the user says "no"
+
+    a. Randomly choose one item from each list (subject, action, place)
+
+    b. COMBINE the three choosen words into one sentence using string formatting 
+       Example format: "BREAKING NEWS: {subject} {action} {place}!"
+
+    c. PRINT the final fake news headine 
+
+    d. ASK the user if they want to generate another headline (yes/no)
+
+    e. IF user says "no", END the loop otherwise if they say "yes", continue the loop
+
+7. PRINT a goodbye message
+
+8. END the program

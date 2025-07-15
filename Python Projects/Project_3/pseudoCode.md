@@ -1,0 +1,26 @@
+1. START the program
+
+2. SHOW welcome message and rules
+
+3. LET user can choose a difficulty level (easy, medium or hard)
+   a. Based on level, set a list of possible secret words 
+
+4. RANDOMLY select a secret word from the choosen list
+
+5. TELL the user how many letters are in the secret word
+
+6. SET attempt counter to 0
+
+7. WHILE the user hasn't guessed the word:
+   a. ASK the user to guess a letter
+   b. Increment attempt counter
+
+   c. If guess equals secret word:
+      i. PRINT "Congratulations! You guessed the word in {attempt counter} attempts" 
+      ii. BREAK the loop
+
+   d. ELSE:
+      i. COMPARE each letter in the guess to the secret word
+      ii. COUNT how many letters are correct and in the correct place
+
+
