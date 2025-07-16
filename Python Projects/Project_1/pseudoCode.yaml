@@ -1,11 +1,13 @@
-1. Start the program 
+# Pseudo Code
 
-2. Import the random module 
+1. Start the program
 
-3. Create a list of Indian subjects 
+2. Import the random module
+
+3. Create a list of Indian subjects
     Example: ["Shahrukh Khan", "Virat Kohli", "Nirmala Sitharaman", "A Mumbai Cat", "A Group of Monkeys", etc]
 
-4. Create a list of Indian actions 
+4. Create a list of Indian actions
    Example: ["launches", "cancels", "dances with", "eats", "declares war on", etc]
 
 5. Create a list of Indian places or things
@@ -15,10 +17,10 @@
 
     a. Randomly choose one item from each list (subject, action, place)
 
-    b. COMBINE the three choosen words into one sentence using string formatting 
+    b. COMBINE the three choosen words into one sentence using string formatting
        Example format: "BREAKING NEWS: {subject} {action} {place}!"
 
-    c. PRINT the final fake news headine 
+    c. PRINT the final fake news headine
 
     d. ASK the user if they want to generate another headline (yes/no)
 

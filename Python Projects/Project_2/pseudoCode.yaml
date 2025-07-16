@@ -1,10 +1,12 @@
-1. Start the program 
+# Pseudo Code
+
+1. Start the program
 
 2. DEFINE the name of the history file (e.g., "history.txt")
 
 3. LOOP forever (while True):
 
-    a. ASK the user to enter a calculation (like 8 + 5) OR a command ( history, clear, or exit) 
+    a. ASK the user to enter a calculation (like 8 + 5) OR a command ( history, clear, or exit)
 
     b. IF user enters "exit":
 

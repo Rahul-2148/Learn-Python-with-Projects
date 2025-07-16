@@ -13,3 +13,19 @@ step 5:             Print the headline to the user
 step 6:             Ask the user if they want another headline
 
 step 7:             If yes, repeat; if no, stop the program
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+| Format  | Styling Support | HTML Allowed                  | Ideal For                         |
+| ------- | --------------- | ----------------------------- | --------------------------------- |
+| `.md`   | ❌ Limited       | ⚠️ Limited (with lint issues) | General notes, README files       |
+| `.mdx`  | ✅ Excellent     | ✅ Full JSX/HTML               | React/Vite/Next apps, custom docs |
+| `.adoc` | ✅ Advanced      | ✅ Built-in styles             | Developer docs, CLI tools         |
+| `.rst`  | ✅ Good          | ✅ With directives             | Python/Sphinx docs                |
+| `.txt`  | ✅ Good          | ✅ Full JSX/HTML               | Plain text, blog posts            |
